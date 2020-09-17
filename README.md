@@ -1,1 +1,2 @@
-# Creditcardfrauddetection
+# Credit card fraud detection
+I've predicted credit card fraudulent payments using a dataset from Kaggle. In this excercise, I explore two supervised machine learning algorithms which include:Random Forest Classifier and Logistic Regression. The data set used was imbalanced, i.e the proportion of fraudulent transactions only made up 0.2% of the data, so i explored upsampling and downsampling the data. I applied Neural Networks using keras to determine if better results could be found. 
